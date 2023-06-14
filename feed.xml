@@ -3,22 +3,30 @@
     <title>CCMat</title>
     <link href="https://mirsym.github.io/ccmat/feed.xml" rel="self" />
     <link href="https://mirsym.github.io/ccmat" />
-    <updated>2023-06-14T17:24:53-03:00</updated>
+    <updated>2023-06-14T17:39:24-03:00</updated>
     <author>
-        <name>NRTP</name>
+        <name>People of CCMat</name>
     </author>
     <id>https://mirsym.github.io/ccmat</id>
 
     <entry>
-        <title>test 1</title>
+        <title>Post One </title>
         <author>
-            <name>NRTP</name>
+            <name>People of CCMat</name>
         </author>
         <link href="https://mirsym.github.io/ccmat/test-1.html"/>
         <id>https://mirsym.github.io/ccmat/test-1.html</id>
 
-        <updated>2023-06-14T17:24:53-03:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2023-06-14T17:39:24-03:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a test. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a test. </p>
+            ]]>
+        </content>
     </entry>
 </feed>
