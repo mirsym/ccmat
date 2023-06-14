@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "CCMat",
+    "title": "Centro de Ciencias Matematicas (CCMat)",
     "description": "",
     "home_page_url": "https://mirsym.github.io/ccmat",
     "feed_url": "https://mirsym.github.io/ccmat/feed.json",
@@ -10,9 +10,37 @@
     },
     "items": [
         {
+            "id": "https://mirsym.github.io/ccmat/materias.html",
+            "url": "https://mirsym.github.io/ccmat/materias.html",
+            "title": "Materias",
+            "summary": "Plano para 2023",
+            "content_html": "<p>Plano para 2023</p>",
+            "author": {
+                "name": "People of CCMat"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-06-14T18:15:36-03:00",
+            "date_modified": "2023-06-14T18:15:36-03:00"
+        },
+        {
+            "id": "https://mirsym.github.io/ccmat/professores.html",
+            "url": "https://mirsym.github.io/ccmat/professores.html",
+            "title": "Professores",
+            "summary": "One Two Three",
+            "content_html": "<ul>\n<li>One</li>\n<li>Two</li>\n<li>Three</li>\n</ul>",
+            "author": {
+                "name": "People of CCMat"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-06-14T18:15:17-03:00",
+            "date_modified": "2023-06-14T18:15:17-03:00"
+        },
+        {
             "id": "https://mirsym.github.io/ccmat/test-1.html",
             "url": "https://mirsym.github.io/ccmat/test-1.html",
-            "title": "Post One ",
+            "title": "Sobre CCMat",
             "summary": "This is a test. ",
             "content_html": "<p><strong>This is a test. </strong></p>",
             "author": {
@@ -21,7 +49,7 @@
             "tags": [
             ],
             "date_published": "2023-06-14T17:24:53-03:00",
-            "date_modified": "2023-06-14T17:55:43-03:00"
+            "date_modified": "2023-06-14T18:14:51-03:00"
         }
     ]
 }

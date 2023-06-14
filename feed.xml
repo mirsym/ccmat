@@ -1,23 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>CCMat</title>
+    <title>Centro de Ciencias Matematicas (CCMat)</title>
     <link href="https://mirsym.github.io/ccmat/feed.xml" rel="self" />
     <link href="https://mirsym.github.io/ccmat" />
-    <updated>2023-06-14T17:55:43-03:00</updated>
+    <updated>2023-06-14T18:15:36-03:00</updated>
     <author>
         <name>People of CCMat</name>
     </author>
     <id>https://mirsym.github.io/ccmat</id>
 
     <entry>
-        <title>Post One </title>
+        <title>Materias</title>
+        <author>
+            <name>People of CCMat</name>
+        </author>
+        <link href="https://mirsym.github.io/ccmat/materias.html"/>
+        <id>https://mirsym.github.io/ccmat/materias.html</id>
+
+        <updated>2023-06-14T18:15:36-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Plano para 2023
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Plano para 2023</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Professores</title>
+        <author>
+            <name>People of CCMat</name>
+        </author>
+        <link href="https://mirsym.github.io/ccmat/professores.html"/>
+        <id>https://mirsym.github.io/ccmat/professores.html</id>
+
+        <updated>2023-06-14T18:15:17-03:00</updated>
+            <summary>
+                <![CDATA[
+                    One Two Three
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li>One</li>
+<li>Two</li>
+<li>Three</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Sobre CCMat</title>
         <author>
             <name>People of CCMat</name>
         </author>
         <link href="https://mirsym.github.io/ccmat/test-1.html"/>
         <id>https://mirsym.github.io/ccmat/test-1.html</id>
 
-        <updated>2023-06-14T17:55:43-03:00</updated>
+        <updated>2023-06-14T18:14:51-03:00</updated>
             <summary>
                 <![CDATA[
                     This is a test. 
