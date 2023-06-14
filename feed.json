@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "CCMat",
+    "description": "",
+    "home_page_url": "https://mirsym.github.io/ccmat",
+    "feed_url": "https://mirsym.github.io/ccmat/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "NRTP"
+    },
+    "items": [
+        {
+            "id": "https://mirsym.github.io/ccmat/test-1.html",
+            "url": "https://mirsym.github.io/ccmat/test-1.html",
+            "title": "test 1",
+            "author": {
+                "name": "NRTP"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-06-14T17:24:53-03:00",
+            "date_modified": "2023-06-14T17:24:53-03:00"
+        }
+    ]
+}

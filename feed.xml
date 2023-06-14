@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>CCMat</title>
+    <link href="https://mirsym.github.io/ccmat/feed.xml" rel="self" />
+    <link href="https://mirsym.github.io/ccmat" />
+    <updated>2023-06-14T17:24:53-03:00</updated>
+    <author>
+        <name>NRTP</name>
+    </author>
+    <id>https://mirsym.github.io/ccmat</id>
+
+    <entry>
+        <title>test 1</title>
+        <author>
+            <name>NRTP</name>
+        </author>
+        <link href="https://mirsym.github.io/ccmat/test-1.html"/>
+        <id>https://mirsym.github.io/ccmat/test-1.html</id>
+
+        <updated>2023-06-14T17:24:53-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

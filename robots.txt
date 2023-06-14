@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mirsym.github.io/ccmat/sitemap.xml
